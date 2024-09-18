@@ -40,6 +40,10 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     "jugadores",
     "cuota",
+    "socios",
+    'sociosCuota',
+    'evento',
+    'servicios',
     'crispy_forms',
     "crispy_bootstrap4",
     

@@ -8,10 +8,14 @@ from django.contrib.staticfiles.urls import static
 urlpatterns = [
     path('',views.inicio,name='inicio'),
     path('cuota/listaCuota',views.listaCuota,name='listaCuota'),
-    path('cuota/<int:idCuota>/', views.crear_editarCuota, name='crear_editarCuota'),
+    path('<int:idCuota>/', views.crear_editarCuota, name='crear_editarCuota'),
     path('eliminarCuota/<int:idCuota>/',views.eliminaCuota,name='eliminaCuota'),  
 
-    
+      
+ 
+ 
+ 
+ 
     
 
 
