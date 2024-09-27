@@ -13,6 +13,7 @@ CASOS DE PRUEBA:
 ATRIBUTOS DE CASOS DE PRUEBA:https://docs.google.com/spreadsheets/d/1U5HpRtCVyvXlmqfRkrFu2eGKOGNj-_oDJDJwzz8D5EU/edit?usp=sharing
 
 DESARROLLO PROYECTO EN DJANGO: *proyecto gral setting.py urls *app asiganada modelo.py forms.py urls.py templates Alta.html baja.html modificacionbes.html listado.html
+https://docs.google.com/document/d/1EWARzIbVdpvHmdw7wEDjviHwpCIkBIQ05jGPLE9l1-s/edit?usp=sharing
 
 BASE DE DATOS: phpMyAdmin 
 https://docs.google.com/document/d/1IUZRYcTiIdVEuZIKx8g8pI7SA8PEz9ZWxjk_HP7viMA/edit
